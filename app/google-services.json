@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "48166084300",
+    "firebase_url": "https://fir-chicken.firebaseio.com",
+    "project_id": "fir-chicken",
+    "storage_bucket": "fir-chicken.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48166084300:android:92d13a2e77bfb13b",
+        "android_client_info": {
+          "package_name": "com.mobileapps.firebasechicken"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "48166084300-ja657e6bdcq07ucmps3pflj4thcs9shf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobileapps.firebasechicken",
+            "certificate_hash": "b10e211fa968f817a79651957e5c455f0adfea55"
+          }
+        },
+        {
+          "client_id": "48166084300-s0m9o0j6lapp55e3jvfprg0eumrv3k6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSZ0vUu9mQQAsSOCFHBB2V18-hq5MR8E0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "48166084300-s0m9o0j6lapp55e3jvfprg0eumrv3k6j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
